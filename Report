@@ -1,0 +1,4 @@
+Algorithm:
+
+1- Detect greenery using thresholding (each image has its own threshold).
+2- Use CCL to get road.
